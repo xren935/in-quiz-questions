@@ -258,3 +258,21 @@ mysql Assessment
 - [ ] user accounts
 - [ ] grant tables
 - [x] data directory
+
+#### Q34. You need to export the data in the customers table into a CSV file, with columns headers in the first row. Which clause do you add to your MySQL command? 
+- [ ] JOIN
+- [ ] WITH HEADERS
+- [x] UNION
+- [ ] WITH COLUMNS
+
+#### Q35. One form of backup, replication, enables you to maintain identical data on multiple servers, as a ___ configuration. 
+- [ ] remote-local
+- [ ] parent-child
+- [x] master-slave
+- [ ] logical-physical
+
+#### Q36. What is the requirement for using a subquery in the SELECT clause? 
+- [ ] the subquery must use an aggregate function.
+- [ ] the subquery must refer to the same table as the main query.
+- [ ] the subquery must return a single value.
+- [ ] the subquery must return at least one value.
